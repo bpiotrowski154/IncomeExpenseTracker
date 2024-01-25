@@ -1,2 +1,2 @@
 # IncomeExpenseTracker
-Java Fundamentals project that
+Java Fundamentals project
